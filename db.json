@@ -50,19 +50,47 @@
         }
     ],
     "partnerURLS": [
-        "acibadem.png",
-        "akbank.webp",
-        "akcansa.png",
-        "akkim.png",
-        "akkok.png",
-        "aktifbank.jpg",
-        "allianz.webp",
-        "anadolu-sigorta.png",
-        "anel-grup.png",
-        "arc-elik.png",
-        "bosch.png",
-        "bezmia-lem-vak-f-u-niversitesi-logosu.png",
-        "ronesans-holding.png",
-        "TAV.png"
+        {
+            "url": "acibadem.png"
+        },
+        {
+            "url": "akbank.webp"
+        },
+        {
+            "url": "akcansa.png"
+        },
+        {
+            "url": "akkim.png"
+        },
+        {
+            "url": "akkok.png"
+        },
+        {
+            "url": "aktifbank.jpg"
+        },
+        {
+            "url": "allianz.webp"
+        },
+        {
+            "url": "anadolu-sigorta.png"
+        },
+        {
+            "url": "anel-grup.png"
+        },
+        {
+            "url": "arc-elik.png"
+        },
+        {
+            "url": "bosch.png"
+        },
+        {
+            "url": "bezmia-lem-vak-f-u-niversitesi-logosu.png"
+        },
+        {
+            "url": "ronesans-holding.png"
+        },
+        {
+            "url": "TAV.png"
+        }
     ]
 }
