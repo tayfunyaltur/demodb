@@ -229,8 +229,7 @@
                 "dates": {
                     "start": "2019-01-01"
                 },
-                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
             },
             {
                 "title": "Software Development Manager",
@@ -244,10 +243,8 @@
                     "start": "2017-10-21",
                     "end": "2019-01-01"
                 },
-                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
             }
-
         ],
         "educations": [
             {
@@ -269,7 +266,7 @@
                 }
             }
         ],
-        "certificates":[
+        "certificates": [
             {
                 "name": "UX Design",
                 "organization": "Udemy",
@@ -281,25 +278,20 @@
                 "date": "2017-01-01"
             }
         ],
-        "talents":[
+        "talents": [
             {
-                "name":"UI Design",
-                "year":3
+                "name": "UI Design",
+                "year": 3
             },
             {
-                "name":"UX Design",
-                "year":3
+                "name": "UX Design",
+                "year": 3
             },
             {
-                "name":"Front-end Development",
-                "year":6
+                "name": "Front-end Development",
+                "year": 6
             }
         ],
-        "interests":[
-            "Yoga",
-            "Travel",
-            "Photography",
-            "Reading"
-        ]
+        "interests": ["Yoga", "Travel", "Photography", "Reading"]
     }
 }
