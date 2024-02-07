@@ -192,5 +192,114 @@
                 "Neyasis Tech."
             ]
         }
-    ]
+    ],
+    "user": {
+        "details": {
+            "name": "Nesil Aksoy",
+            "title": "UX Designer",
+            "location": {
+                "country": "Turkey",
+                "city": "Istanbul",
+                "neighborhood": "Kadıköy"
+            },
+            "email": "nesil_aksoy@gmail.com",
+            "phone": "+90 555 555 55 55",
+            "profileImage": "nesil-aksoy.jpg"
+        },
+        "socials": {
+            "linkedin": "https://www.linkedin.com/",
+            "github": "https://www.github.com/",
+            "medium": "https://www.medium.com/",
+            "twitter": "https://www.twitter.com/",
+            "facebook": "https://www.facebook.com/",
+            "webpage": "https://www.textigma.com"
+        },
+        "docs": ["nesilcv.pdf", "nesil-engcv.pdf", "nesil.docx"],
+        "savedSearches": ["Neyasis Tech.", "Apple"],
+        "applies": ["Neyasis Tech"],
+        "experiences": [
+            {
+                "title": "Founder",
+                "companyd": "Textigma",
+                "location": {
+                    "country": "Turkey",
+                    "city": "Istanbul",
+                    "neighborhood": "Kadıköy"
+                },
+                "dates": {
+                    "start": "2019-01-01"
+                },
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
+            },
+            {
+                "title": "Software Development Manager",
+                "companyd": "IBM",
+                "location": {
+                    "country": "USA",
+                    "city": "New York",
+                    "neighborhood": "Armonk"
+                },
+                "dates": {
+                    "start": "2017-10-21",
+                    "end": "2019-01-01"
+                },
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
+                dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
+            }
+
+        ],
+        "educations": [
+            {
+                "schoolname": "Boğaziçi University",
+                "degree": "Master Degree",
+                "field": "Computer Engineering",
+                "dates": {
+                    "start": "2013",
+                    "end": "2017"
+                }
+            },
+            {
+                "schoolname": "Yildiz Technical University",
+                "degree": "Bachelor's Degree",
+                "field": "Computer Engineering",
+                "dates": {
+                    "start": "2007",
+                    "end": "2013"
+                }
+            }
+        ],
+        "certificates":[
+            {
+                "name": "UX Design",
+                "organization": "Udemy",
+                "date": "2019-01-01"
+            },
+            {
+                "name": "UI Design",
+                "organization": "Microsoft",
+                "date": "2017-01-01"
+            }
+        ],
+        "talents":[
+            {
+                "name":"UI Design",
+                "year":3
+            },
+            {
+                "name":"UX Design",
+                "year":3
+            },
+            {
+                "name":"Front-end Development",
+                "year":6
+            }
+        ],
+        "interests":[
+            "Yoga",
+            "Travel",
+            "Photography",
+            "Reading"
+        ]
+    }
 }
